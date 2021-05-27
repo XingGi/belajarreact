@@ -2,7 +2,7 @@
 
 This project mantab was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts good
 
 In the project ganteng banget directory, you can run:
 
