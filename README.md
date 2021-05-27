@@ -4,7 +4,7 @@ This project mantab was bootstrapped with [Create React App](https://github.com/
 
 ## Available Scripts
 
-In the project ganteng banget directory, you can run:
+In the project banget directory, you can run:
 
 ### `yarn start`
 
